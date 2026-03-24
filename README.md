@@ -10,16 +10,6 @@ A lightweight, single-page web application to manage rental properties, track te
 
 ### 🏠 Dashboard with Tenant Data
 ![Rent Management Dashboard](https://raw.githubusercontent.com/eldhosegeorge2004/Rent_Management_First/main/screenshots/dashboard_clean.png)
-
-### 📊 Live Dashboard View
-![Rent Management Dashboard - Live](https://raw.githubusercontent.com/eldhosegeorge2004/Rent_Management_First/main/screenshots/dashboard_light.png)
-
-### 🌑 Dark Mode
-![Rent Management Dashboard - Dark Mode](https://raw.githubusercontent.com/eldhosegeorge2004/Rent_Management_First/main/screenshots/dashboard_dark.png)
-
-### ➕ Add New Tenant Form
-![Add New Tenant Form](https://raw.githubusercontent.com/eldhosegeorge2004/Rent_Management_First/main/screenshots/add_tenant_form.png)
-
 ---
 
 ## ✨ Features
